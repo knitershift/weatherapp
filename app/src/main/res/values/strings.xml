@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="API_URL">https://api.openweathermap.org/data/2.5/weather?units=metric</string>
+    <string name="API_KEY">163145d41254bb36d5a9f0fdb4f1f727</string>
+
+    <string name="loading">Загрузка..</string>
+    <string name="City">Місто</string>
+    <string name="Description">Опис</string>
+    <string name="Min">Мін.</string>
+    <string name="Max">Макс.</string>
+    <string name="WindSpeed">Швидкість вітру</string>
+    <string name="Pressure">Атмосферний тиск</string>
+    <string name="Humidity">Вологість повітря</string>
+    <string name="Clouds">Хмарність</string>
+    <string name="CheckInternetConnection">Перевірте з\'єднання з інтернетом</string>
+</resources>
